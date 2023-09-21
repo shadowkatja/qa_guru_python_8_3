@@ -1,1 +1,1 @@
-print('Charles Leclerc is the winner of Italian Grand Prix!')
+print('He won in Spa, he wins in Monza!')
