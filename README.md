@@ -1,4 +1,4 @@
-# qa_guru_python_8_3
+# Homework for QA GURU Python lesson 3
 
 - Add an SSH key to your account.
 - Create a new project from scratch locally. Go through the Git flow from git init to git push -u.
